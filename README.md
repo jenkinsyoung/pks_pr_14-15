@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/65ae2369-e872-47f2-ab72-60186b7cca49)
 
 2) Подключила проект для Android и скачала файл ```google-service.json```
-3) Добавила файл в папку **lib**
+3) Добавила файл в папку **android/app**
 4) Реализовала авторизацию через **Firebase Authentication**
 5) Реализовала чат с продавцом, используя **Firebase Cloud Firestore**
 
